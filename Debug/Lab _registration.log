@@ -1,0 +1,4 @@
+﻿  Lab _registration.cpp
+E:\работа\Lab_regestration\Lab _registration\Lab _registration.cpp(59,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\работа\Lab_regestration\Lab _registration\Lab _registration.cpp(176,10): warning C4101: flag: неиспользованная локальная переменная
+  Lab _registration.vcxproj -> E:\работа\Lab_regestration\Lab _registration\Debug\Lab _registration.exe
